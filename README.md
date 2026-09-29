@@ -3,7 +3,10 @@
 A premium construction and development web experience focused on
 architecture, craftsmanship, engineering precision, and long-term value.
 
-## Project Versions
+## Project Preview
+### Preview
+
+![OLYSS Version 01 Preview](./olyss%20preview.png)
 
 ### Version 01 — Original Concept
 [Live Demo](https://smi-abbasi.github.io/OLYSS-Construction-and-Development/)
